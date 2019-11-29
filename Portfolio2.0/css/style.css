@@ -1,0 +1,47 @@
+li a:hover{
+	background-color: #8a8a8a
+}
+li a{
+	font-family: 'Ultra', serif;
+	color: #0000
+}
+#index{
+	background-image: url(../images/bg.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+nav{
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-bottom: 25px;
+}
+div.container{
+	background-color: rgba(255, 255, 255, 0.7);
+	font-size: 1.2em;
+}
+div.container h1{
+	text-align: center;
+	padding-top: 35px;
+	text-shadow: 3px 3px grey;
+}
+div.container p{
+	font-family: 'Titillium Web', sans-serif;
+}
+#prog{
+	width: 250px;
+	height: 200px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 15px;
+}
+#ib{
+	height: 150px;
+	width: 150px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 15px;
+}
+#rMore{
+	margin-bottom: 45px;
+}
